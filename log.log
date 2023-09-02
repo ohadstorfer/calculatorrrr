@@ -1,0 +1,3 @@
+2023-09-02 14:49:45,440 - INFO - info
+2023-09-02 14:49:47,317 - DEBUG - first number is: 2, second number is: 3 
+2023-09-02 14:49:49,514 - ERROR - user entered an unvalid number: 6
